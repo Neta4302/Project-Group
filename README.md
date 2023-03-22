@@ -1,7 +1,15 @@
-# Project-Group
-Group member:
-1. Nattaphat Sangsunt
-ID: 6407012660193
+# CRUD_Application_Node
+In this project, we are going to create node CRUD application with express and mongodb.
 
-2. Wichayaphan Traithipthomrongchoke
-ID: 6407012662048
+#### To Run this project Clone it and install modules using
+```
+npm install
+```
+
+Then Create config.env file and create PORT and MONGO_URI Variable and specify Value.
+That's it. You are ready to go. To execute this project just type
+```
+npm start
+```
+
+Enjoy...!
